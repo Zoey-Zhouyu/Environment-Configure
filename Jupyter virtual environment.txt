@@ -1,0 +1,7 @@
+Jupyter virtual environment on Windows (No anconda)
+
+1. python -m venv [venv-name]
+2. cd [venv-name]/Scripts
+3. activate
+4. pip install ......
+5. deactivate
