@@ -1,0 +1,5 @@
+1. Install wget
+   link: https://eternallybored.org/misc/wget/
+   The type of file is .exe to download
+   remove to C:/windows/system32
+2. Like Linux -ls  ==> dir
