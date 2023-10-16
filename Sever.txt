@@ -1,3 +1,10 @@
 Download file from Sever to  Windows laptop
 
   Command: scp -r root@ ip :/file C:\file
+
+
+
+更新KEY
+
+cmd 
+ssh-keygen -R ip
